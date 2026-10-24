@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Claude Usage History
-// @namespace    local.claude-usage-history
+// @namespace    https://github.com/avanishmishra/claude-usage-history
 // @version      1.0.1
 // @description  Logs your Claude session and weekly usage % and shows a per-week history with averages.
 // @match        https://claude.ai/*
@@ -8,6 +8,9 @@
 // @grant        GM_setValue
 // @run-at       document-idle
 // @noframes
+// @license      MIT
+// @homepageURL  https://github.com/avanishmishra/claude-usage-history
+// @supportURL   https://github.com/avanishmishra/claude-usage-history/issues
 // ==/UserScript==
 
 /*
